@@ -1,0 +1,2 @@
+# ARP
+The aim of the applet, designed for the Kurose-Ross website, was to provide for a visualisation of the ARP protocol to aid in its understanding, to go in tandem with their textbook. The applet is descriptive and is coded in Java. Provisions to control the packet movement speeds are given, for users to better understand the address resolution phase. The simulation also demonstrates how various protocols are applied to packets at each layer, giving the user an overall understanding of the packet transfer from source to destination hosts.
